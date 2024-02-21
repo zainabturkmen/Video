@@ -10,7 +10,7 @@ btn.addEventListener("click", function(){
         btn.classList.add("slide");
         video.pause();
     }else{
-        btn.classList.remove("slide")
+        btn.classList.remove("slide");
         video.play();
     };
 });
