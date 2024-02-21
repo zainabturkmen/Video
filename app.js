@@ -17,7 +17,7 @@ btn.addEventListener("click", function(){
 
 // prelaoder
 
-const prelader = document.querySelector('.prelaoder');
+const preloader = document.querySelector('.preloader');
 window.addEventListener("load", function(){
-
+    preloader.classList.add("hide-preloader")
 });
