@@ -14,3 +14,7 @@ btn.addEventListener("click", function(){
         video.play();
     };
 });
+
+// prelaoder
+
+const prelader = document.querySelector('.prelaoder');
