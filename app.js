@@ -18,3 +18,6 @@ btn.addEventListener("click", function(){
 // prelaoder
 
 const prelader = document.querySelector('.prelaoder');
+window.addEventListener("load", function(){
+
+});
